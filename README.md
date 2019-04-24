@@ -15,4 +15,15 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+-----------------------------------------------------
+
+
+Search all the GIFs
+
+
+![res1](https://user-images.githubusercontent.com/35347062/56700204-c3da4280-6701-11e9-935f-08f72d902a33.PNG)
+
+
+
+
+![res2](https://user-images.githubusercontent.com/35347062/56700206-c3da4280-6701-11e9-839d-88f6d84f27d1.PNG)
